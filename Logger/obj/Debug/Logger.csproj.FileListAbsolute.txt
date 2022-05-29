@@ -1,0 +1,15 @@
+F:\Programs\c#\V2VBooks\Logger\bin\Debug\Logger.dll
+F:\Programs\c#\V2VBooks\Logger\bin\Debug\Logger.pdb
+F:\Programs\c#\V2VBooks\Logger\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Programs\c#\V2VBooks\Logger\bin\Debug\System.Security.AccessControl.dll
+F:\Programs\c#\V2VBooks\Logger\bin\Debug\System.Security.Permissions.dll
+F:\Programs\c#\V2VBooks\Logger\bin\Debug\System.Security.Principal.Windows.dll
+F:\Programs\c#\V2VBooks\Logger\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\Programs\c#\V2VBooks\Logger\bin\Debug\System.Security.AccessControl.xml
+F:\Programs\c#\V2VBooks\Logger\bin\Debug\System.Security.Permissions.xml
+F:\Programs\c#\V2VBooks\Logger\bin\Debug\System.Security.Principal.Windows.xml
+F:\Programs\c#\V2VBooks\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+F:\Programs\c#\V2VBooks\Logger\obj\Debug\Logger.csproj.CopyComplete
+F:\Programs\c#\V2VBooks\Logger\obj\Debug\Logger.dll
+F:\Programs\c#\V2VBooks\Logger\obj\Debug\Logger.pdb
+F:\Programs\c#\V2VBooks\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache

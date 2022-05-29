@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="v2v_Dashboard.master.cs" Inherits="v2vDashboard.v2v_Dashboard" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <link href="Styles/Dashboard.css" rel="stylesheet" />
+    <title>Dashboard</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div class="dashContainer">
+
+                <div class="dashHeader">
+                    <img src="http://localhost/ImageSourcePath/v2vlogo1.2.png" class="dashlogo" alt="logo">
+                    <h4 class="dashName">Admin</h4>
+                </div>
+                <div class="dahnavContainer">
+
+                    <div class="dashnavbar">
+
+                        <div class="dashnavstart">
+
+                            <div class="navbar">
+                                <a href="Dashboard">Dashboard</a>
+                            </div>
+                            <div class="navbar">
+                                <a href="Insertions">Add Books</a>
+                            </div>
+                            <div class="navbar">
+                                <a href="View-Update">View & Edit</a>
+                            </div>
+
+                        </div>
+
+                    </div> 
+                    
+                    <div class="dash1stcount">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+
+                </div>
+
+            </div>
+                        
+        </div>
+    </form>
+</body>
+</html>

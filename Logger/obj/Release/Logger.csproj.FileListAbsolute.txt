@@ -1,0 +1,14 @@
+F:\Programs\c#\V2VBooks\Logger\bin\Release\Logger.dll
+F:\Programs\c#\V2VBooks\Logger\bin\Release\Logger.pdb
+F:\Programs\c#\V2VBooks\Logger\bin\Release\System.Configuration.ConfigurationManager.dll
+F:\Programs\c#\V2VBooks\Logger\bin\Release\System.Security.AccessControl.dll
+F:\Programs\c#\V2VBooks\Logger\bin\Release\System.Security.Permissions.dll
+F:\Programs\c#\V2VBooks\Logger\bin\Release\System.Security.Principal.Windows.dll
+F:\Programs\c#\V2VBooks\Logger\bin\Release\System.Configuration.ConfigurationManager.xml
+F:\Programs\c#\V2VBooks\Logger\bin\Release\System.Security.AccessControl.xml
+F:\Programs\c#\V2VBooks\Logger\bin\Release\System.Security.Permissions.xml
+F:\Programs\c#\V2VBooks\Logger\bin\Release\System.Security.Principal.Windows.xml
+F:\Programs\c#\V2VBooks\Logger\obj\Release\Logger.csproj.CoreCompileInputs.cache
+F:\Programs\c#\V2VBooks\Logger\obj\Release\Logger.csproj.CopyComplete
+F:\Programs\c#\V2VBooks\Logger\obj\Release\Logger.dll
+F:\Programs\c#\V2VBooks\Logger\obj\Release\Logger.pdb

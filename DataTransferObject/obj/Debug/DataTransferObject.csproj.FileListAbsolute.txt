@@ -1,0 +1,6 @@
+F:\Programs\c#\V2VBooks\DataTransferObject\bin\Debug\DataTransferObject.dll
+F:\Programs\c#\V2VBooks\DataTransferObject\bin\Debug\DataTransferObject.pdb
+F:\Programs\c#\V2VBooks\DataTransferObject\obj\Debug\DataTransferObject.csproj.CoreCompileInputs.cache
+F:\Programs\c#\V2VBooks\DataTransferObject\obj\Debug\DataTransferObject.dll
+F:\Programs\c#\V2VBooks\DataTransferObject\obj\Debug\DataTransferObject.pdb
+F:\Programs\c#\V2VBooks\DataTransferObject\obj\Debug\DataTransferObject.csproj.AssemblyReference.cache
